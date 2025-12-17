@@ -11,7 +11,7 @@
  <a href="https://twitter.com/singh_singh68" target="_blank">
   <img alt="Discord" title="Twitter" src="https://img.shields.io/badge/-Twitter-03a9f4?style=for-the-badge&logo=twitter&logoColor=white"/>
  </a>
- <a href="https://linkedin.com/in/dipaksinh" target="_blank">
+ <a href="https://linkedin.com/in/sinhdipak" target="_blank">
   <img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-1976d2?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
  <a href="https://stackoverflow.com/users/24465757">
@@ -48,7 +48,7 @@
 
 - 👯 I’m looking to collaborate on **Innovative web development projects that push the boundaries of technology and user experience. Particularly interested in collaborations that aim to solve real-world problems through cutting-edge web applications.**
 
-- 🤝 I’m looking for help with **Optimizing database performance and exploring cutting-edge technologies to elevate project efficiency.**
+- 🤝 I’m looking for help with **Optimising database performance and exploring cutting-edge technologies to elevate project efficiency.**
 
 - 💬 Ask me about **Java | Collection Framework | Rest API | JSP & Servlet | Spring Framework | Springboot | MySql | Maven | React Js | JavaScript | Angular | HTML | CSS**
 
