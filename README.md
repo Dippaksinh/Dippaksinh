@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **Dipak Sinh**
+# 👋 Hi, I'm **Dippak Sinh**
 
 ### **Full-Stack Software Engineer** | *4+ Years of Experience*
 
@@ -81,8 +81,9 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Capstone Medicare API](https://github.com/dipaksinh2/Capstone-medicare-api.git)** | Healthcare management backend microservice | Java, Spring Boot, REST API |
-| **[Capstone Medicare UI](https://github.com/Dipaksinh2/Capstone_Medicare_ui.git)** | Web interface for Medicare services | React, JS, HTML/CSS |
+| **[Capstone Medicare UI](https://github.com/Dipaksinh2/Capstone_Medicare_ui.git)** | Web interface for Medicare services | Angular, JS, HTML/CSS |
 | **[SAFEinvest Backend API](https://github.com/Dipaksinh2/SAFEinvest-BackendApi.git)** | Financial portal backend service | Java, Spring Boot, MySQL |
-| **[SAFEinvest FrontEnd](https://github.com/Dipaksinh2/SAFEinvest-FrontEnd.git)** | Responsive web client for investment portal | Angular / React |
+| **[SAFEinvest FrontEnd](https://github.com/Dipaksinh2/SAFEinvest-FrontEnd.git)** | Responsive web client for investment portal |  React |
+| **[Shaashwat Web App](https://github.com/Dippaksinh/shaashwat-web-app)** | Responsive web client for Organization Portal | Angular / React |
 
 </div>
