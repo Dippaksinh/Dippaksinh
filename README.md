@@ -1,101 +1,88 @@
-## Introduction
-![Header](./Banner.png)
+<div align="center">
+
+# 👋 Hi, I'm **Dipak Sinh**
+
+### **Full-Stack Software Engineer** | *4+ Years of Experience*
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=4%2B+years+of+full-stack+experience;Building+scalable+Microservices;Java+%7C+SpringBoot+%7C+React+%7C+Cloud&font=Fira+Code&center=true&width=600&height=40&color=38BDF8&vCenter=true&pause=1000&size=20)](https://git.io/typing-svg)
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=2+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=white&vCenter=true&pause=1000&size=25" /></a>
-</p>
-
-<h2 align="center">Hello, I'm <a href="https://github.com/dipaksinh2" target="_blank" style="text-decoration: none;">Dipak Sinh</a></h2>
-<h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
-
-<p align="center">
- <a href="https://twitter.com/singh_singh68" target="_blank">
-  <img alt="Discord" title="Twitter" src="https://img.shields.io/badge/-Twitter-03a9f4?style=for-the-badge&logo=twitter&logoColor=white"/>
- </a>
- <a href="https://linkedin.com/in/sinhdipak" target="_blank">
-  <img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-1976d2?style=for-the-badge&logo=linkedin&logoColor=white"/>
- </a>
- <a href="https://stackoverflow.com/users/24465757">
-  <img alt="StackOverflow" title="StackOverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"/>
- </a>
- <a href="https://www.hackerrank.com/profile/singhdk_singh68" target="_blank">
-  <img alt="HackerRank" title="HackerRank" src="https://img.shields.io/badge/hackerrank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge"/>
-</a>
- <a href="https://github.com/dipaksinh2" target="_blank">
-  <img alt="Github" title="Github" src="https://img.shields.io/badge/Github-555555?style=for-the-badge&logo=github&logoColor=white"/>
- </a>
-</p>
- 
-## Profile Views
-
-
-  <table>
-    <tr>
-      <!-- <th>Profile Views</th> -->
-      <th>Total Count</th>
-    </tr>
-    <tr>
-      <td>
-         <a href="https://github.com/dipaksinh2"> <img src="https://komarev.com/ghpvc/?username=dipaksinh2&style=for-the-badge&color=blue"> </a>
-      </td>
-    </tr>
-  </table>
-
-## What I'm Doing
-
-- 🔭 I’m currently working on **Developing a dynamic web application integrating React JS, SpringBoot, Java, MicroServices, and MYSQL for enhanced user experiences.**
-
-- 🌱 I’m currently learning **GCP, ElasticSearch, MongoDB** & more
-
-- 👯 I’m looking to collaborate on **Innovative web development projects that push the boundaries of technology and user experience. Particularly interested in collaborations that aim to solve real-world problems through cutting-edge web applications.**
-
-- 🤝 I’m looking for help with **Optimising database performance and exploring cutting-edge technologies to elevate project efficiency.**
-
-- 💬 Ask me about **Java | Collection Framework | Rest API | JSP & Servlet | Spring Framework | Springboot | MySql | Maven | React Js | JavaScript | Angular | HTML | CSS**
-
-- 📫 How to reach me **dipak_sinh@outlook.com**
-
-
-## Languages and Tools
-
-<p align="left"> 
-  <h4>Back End</h4>
-  <a href="https://github.com/dipaksinh2">
-    <img src="https://skillicons.dev/icons?i=java,maven,spring,mysql,postman,eclipse,idea,MongoDB"> 
-  </a> 
-</p>
-<p align="center"> 
-  <h4>Front End</h4>
-  <a href="https://github.com/dipaksinh2">
-    <img src="https://skillicons.dev/icons?i=npm,nodejs,html,js,jquery,css,react,angular,ts,vscode"> 
-  </a> 
-</p>
-<p align="right">
-  <h4>Version Control & Cloud</h4>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,github,gitlab,kubernetes,docker" />
+  <a href="https://linkedin.com/in/sinhdipak" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/dipaksinh2" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://stackoverflow.com/users/24465757" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F48024?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/singhdk_singh68" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://twitter.com/singh_singh68" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
 </p>
-## My Stats:
-<p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=dipaksinh2&show_icons=true&count_private=true&theme=tokyonight&border_radius=20">
+
+---
+
+</div>
+
+## 📌 About Me
+
+* 🔭 **Currently Building:** High-performance, dynamic web applications integrating **React.js**, **Spring Boot**, **Java Microservices**, and **MySQL**.
+* 🌱 **Currently Learning:** GCP, Elasticsearch, and MongoDB.
+* 👯 **Open to Collaboration:** Innovative web development projects solving real-world challenges through modern microservice architectures.
+* 🤝 **Looking to Discuss:** Database performance optimization, backend scalability, and cloud deployments.
+* 📫 **Reach Me:** [dipak_sinh@outlook.com](mailto:dipak_sinh@outlook.com)
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<p align="left">
+  <b>Back End & Databases</b><br/>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,mongodb,postman,idea,eclipse" alt="Backend Technologies" />
 </p>
 
-## Activity On GitHub
-
-<p align="center">
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dipaksinh2&show_icons=true&theme=tokyonight&border_radius=20" alt="GitHub Streak" />
-</a>
+<p align="left">
+  <b>Front End & Frameworks</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css,jquery,nodejs,npm,vscode" alt="Frontend Technologies" />
 </p>
 
+<p align="left">
+  <b>DevOps, Cloud & Version Control</b><br/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,git,github,gitlab" alt="Cloud and DevOps" />
+</p>
 
+---
 
-## Top Repositories
-  <p align="center">
-     <a href="https://github.com/dipaksinh2/Capstone-medicare-api.git"><img width="20%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dipaksinh2&repo=Capstone-medicare-api&theme=tokyonight&border_radius=20&hide_border=false&show_icons=true" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/Dipaksinh2/Capstone_Medicare_ui.git"><img width="20%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dipaksinh2&repo=Capstone_Medicare_ui&theme=tokyonight&border_radius=20&hide_border=false&show_icons=true" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/Dipaksinh2/SAFEinvest-BackendApi.git"><img width="20%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dipaksinh2&repo=SAFEinvest-BackendApi&theme=tokyonight&border_radius=20&hide_border=false&show_icons=true" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/Dipaksinh2/SAFEinvest-FrontEnd.git"><img width="20%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dipaksinh2&repo=SAFEinvest-FrontEnd&theme=tokyonight&border_radius=20&hide_border=false&show_icons=true" alt="github-readme-streak-stats"></a>
-  </p>
+## 📊 GitHub Analytics
 
-###
+<div align="center">
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dipaksinh2&show_icons=true&count_private=true&theme=tokyonight&border_radius=12&hide_border=true" alt="Dipak's GitHub Stats" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=dipaksinh2&theme=tokyonight&border_radius=12&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=dipaksinh2&style=flat-square&color=007acc&label=Profile+Views" alt="Profile Views" />
+</p>
+
+</div>
+
+---
+
+## ⭐ Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Capstone Medicare API](https://github.com/dipaksinh2/Capstone-medicare-api.git)** | Healthcare management backend microservice | Java, Spring Boot, REST API |
+| **[Capstone Medicare UI](https://github.com/Dipaksinh2/Capstone_Medicare_ui.git)** | Web interface for Medicare services | React, JS, HTML/CSS |
+| **[SAFEinvest Backend API](https://github.com/Dipaksinh2/SAFEinvest-BackendApi.git)** | Financial portal backend service | Java, Spring Boot, MySQL |
+| **[SAFEinvest FrontEnd](https://github.com/Dipaksinh2/SAFEinvest-FrontEnd.git)** | Responsive web client for investment portal | Angular / React |
+
+</div>
