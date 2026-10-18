@@ -34,7 +34,7 @@
 * 🌱 **Currently Learning:** GCP, Elasticsearch, and MongoDB.
 * 👯 **Open to Collaboration:** Innovative web development projects solving real-world challenges through modern microservice architectures.
 * 🤝 **Looking to Discuss:** Database performance optimization, backend scalability, and cloud deployments.
-* 📫 **Reach Me:** [dipak_sinh@outlook.com](mailto:dipak_sinh@outlook.com)
+* 📫 **Reach Me:** [dipak_sinh@outlook.com](mailto:dippaksinh2506@gmail.com)
 
 ---
 
