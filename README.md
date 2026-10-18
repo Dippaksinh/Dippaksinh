@@ -30,10 +30,10 @@
 
 ## 📌 About Me
 
-* 🔭 **Currently Building:** High-performance, dynamic web applications integrating **React.js**, **Spring Boot**, **Java Microservices**, and **MySQL**.
+* 🔭 **Currently Building:** High-performance, dynamic web applications integrating **React.js**, **Spring Boot**, **Core Java**,**Java Microservices**, **PostgreSQL**, **Angular**, **Rabbit MQ** and **MySQL**.
 * 🌱 **Currently Learning:** GCP, Elasticsearch, and MongoDB.
 * 👯 **Open to Collaboration:** Innovative web development projects solving real-world challenges through modern microservice architectures.
-* 🤝 **Looking to Discuss:** Database performance optimization, backend scalability, and cloud deployments.
+* 🤝 **Looking to Discuss:** Database performance optimisation, backend scalability, and cloud deployments.
 * 📫 **Reach Me:** [dippaksinh2506@gmail.com](mailto:dippaksinh2506@gmail.com)
 
 ---
