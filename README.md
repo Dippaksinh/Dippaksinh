@@ -4,7 +4,7 @@
 
 ### **Full-Stack Software Engineer** | *3+ Years of Experience*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=4%2B+years+of+full-stack+experience;Building+scalable+Microservices;Java+%7C+SpringBoot+%7C+React+%7C+Cloud&font=Fira+Code&center=true&width=600&height=40&color=38BDF8&vCenter=true&pause=1000&size=20)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=3%2B+years+of+full-stack+experience;Building+scalable+Microservices;Java+%7C+SpringBoot+%7C+React+%7C+Cloud&font=Fira+Code&center=true&width=600&height=40&color=38BDF8&vCenter=true&pause=1000&size=20)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://linkedin.com/in/sinhdipak" target="_blank">
